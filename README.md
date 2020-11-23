@@ -1,6 +1,6 @@
 
 # Resume
-
+JQuery, AngularJS, NodeJS
 
 ## Setup
 
